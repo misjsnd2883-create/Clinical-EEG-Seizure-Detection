@@ -1,4 +1,4 @@
-# Clinical-EEG-Seizure-Detection# 🧠 Clinical EEG Seizure Detection using Deep Learning (1D-CNN)
+#🧠 Clinical EEG Seizure Detection using Deep Learning (1D-CNN)
 
 ### 👤 Author: Mohamed | Biochemistry & Physiology Student @ Cairo University
 
