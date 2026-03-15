@@ -23,3 +23,4 @@ This repository contains a high-performance **End-to-End Pipeline** for detectin
 ---
 ### 🔗 Research & Collaboration
 *Currently developing expertise in Computational Neuroscience and Digital Bio-Diagnostics. Open for Research/PhD opportunities.*
+![Brain Signal Analysis](Screenshot%202026-03-15%20172954.png)
